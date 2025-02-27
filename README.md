@@ -9,10 +9,10 @@ Uma aplicação móvel prática e intuitiva para ajudar usuários a organizarem 
 
 ## Visual
 ### Tela inicial do aplicativo, com persistencia
-![Tela inicial do aplicativo, com persistencia](https://github.com/aj-ferreira/to_do_list/tree/master/imagens%20to_do_list/inicio.jpeg)
+![Tela inicial do aplicativo, com persistencia](https://github.com/aj-ferreira/to_do_list/blob/main/imagens%20to_do_list/inicio.jpeg)
 
 ### Tela ao apagar tarefa selecionada
-![Tela ao apagar tarefa selecionada](https://github.com/aj-ferreira/to_do_list/tree/master/imagens%20to_do_list/apagar%selecionado.jpeg)
+![Tela ao apagar tarefa selecionada](https://github.com/aj-ferreira/to_do_list/blob/main/imagens%20to_do_list/apagar%selecionado.jpeg)
 
 ### Tela ao apagar todas as tarefas
-![Tela ao apagar todas as tarefas](https://github.com/aj-ferreira/to_do_list/tree/master/imagens%20to_do_list/apagar%tudo.jpeg)
+![Tela ao apagar todas as tarefas](https://github.com/aj-ferreira/to_do_list/blob/main/imagens%20to_do_list/apagar%tudo.jpeg)
